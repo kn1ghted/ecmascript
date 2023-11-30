@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Edwin Calderon <edca81@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
